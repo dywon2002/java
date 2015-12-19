@@ -1,0 +1,2 @@
+- 접근제한자 적용 : VO, setter, getter
+- toString 적용 : 전체 목록보기 메서드

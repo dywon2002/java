@@ -1,0 +1,9 @@
+public 누구나, 다른 패키지에서도 접근 가능 
+private 나만 
+dafault  같은 그룹만( 패키지)
+protected 상속
+
+public > protected > default > private
+
+
+classCastException 형 변환 오류 .

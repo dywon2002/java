@@ -1,0 +1,6 @@
+#다음은 포트 번호입니다.
+port=>7690
+#다음은 서버 이름입니다.
+server=>mlec.com
+#다음은 관리자 메일입니다.
+admin=>admin@mlec.com

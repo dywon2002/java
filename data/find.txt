@@ -1,0 +1,5 @@
+public class FileFind{
+	public static void main(String[] args){
+		System.out.println(oriArr[j]);
+		}
+}

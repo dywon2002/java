@@ -1,0 +1,4 @@
+Wind Direction
+Wind Speed
+Temperature
+Humidity
